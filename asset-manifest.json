@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d4e45677.css",
-    "main.js": "/static/js/main.2509b6d4.js",
+    "main.js": "/static/js/main.5b76f006.js",
     "static/media/coldplay.png": "/static/media/coldplay.9f3b471db7fe754b2268.png",
     "static/media/vibes.png": "/static/media/vibes.b7e3f080757bafa719a6.png",
     "static/media/hallyupopfest.png": "/static/media/hallyupopfest.072a3acb59108b5c73b4.png",
@@ -72,10 +72,10 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
     "main.d4e45677.css.map": "/static/css/main.d4e45677.css.map",
-    "main.2509b6d4.js.map": "/static/js/main.2509b6d4.js.map"
+    "main.5b76f006.js.map": "/static/js/main.5b76f006.js.map"
   },
   "entrypoints": [
     "static/css/main.d4e45677.css",
-    "static/js/main.2509b6d4.js"
+    "static/js/main.5b76f006.js"
   ]
 }
